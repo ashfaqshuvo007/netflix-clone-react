@@ -1,3 +1,16 @@
+# React JS Template
+
+This is a repository which i will use as a starting point for any kind of future react projects.
+
+### I am up for hire as a freelancer
+
+I am certified programmer with real-life problem solving experiences. I mainly work as a Senior Software engineer in a local company in Bangladesh but I also work as a freelancer for clients around the world. I do have a team of excellent programmers with whom I work on my freelance projects. You can reach me here: 
+
+* [Connect on LinkedIn](https://www.linkedin.com/in/ashfaqhahmed/)
+
+* [Find me on Twitter](https://twitter.com/ashfaq8495)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
